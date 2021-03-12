@@ -30,7 +30,7 @@
  overflow: hidden;
  position: relative;
  background: yellow;
- color: black;
+/* color: black; */
  border: 1px solid orange;
 }
 .bounce p {
