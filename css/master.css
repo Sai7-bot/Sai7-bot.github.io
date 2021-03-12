@@ -26,11 +26,11 @@
   }
 
 .bounce {
- height: 30px;	
+ height: 50px;	
  overflow: hidden;
  position: relative;
  background: yellow;
- color: orange;
+ color: black;
  border: 1px solid orange;
 }
 .bounce p {
